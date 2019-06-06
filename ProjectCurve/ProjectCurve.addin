@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ProjectCurve</Text>
+    <Description>Some description for ProjectCurve</Description>
+    <Assembly>ProjectCurve.dll</Assembly>
+    <FullClassName>ProjectCurve.Command</FullClassName>
+    <ClientId>38a5a465-c216-4579-8ede-9af7530aa84f</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
